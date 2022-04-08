@@ -1,4 +1,3 @@
-# Submission for 18CSP103L-Seminar-I
 ## Submitted By:
 * ### Kusum Paraag Grandhi (RA1911003010597)
 * ### Yogesh (RA1911003010569)
@@ -9,10 +8,7 @@ The internet is a great place, Information being shared in a matter of seconds, 
 
 Our project was infuenced by the ideas presented in the following research paper by Andrea Perera and Pumudu Fernando from the Informatics Institute of Technology, Colombo.
 https://www.sciencedirect.com/science/article/pii/S1877050921002507
-<br></br>
-<p align="center"><img width=50% src="Screenshots/example1.png"></p>
-<p align="center"><img width=50% src="Screenshots/example2.png"></p>  
-<p align="center"><img width=50% src="Screenshots/example3.png"></p>
+
 <h2 align= "left"><b>Tech Stack Used</b></h2>
 
 *Python*
