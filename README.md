@@ -17,6 +17,4 @@ https://www.sciencedirect.com/science/article/pii/S1877050921002507
 * scikit-learn
 * pandas
 
-<h2 align= "left"><b>Project Maintainer(s)</b></h2>
-
                                                                                                                                               
